@@ -1,0 +1,300 @@
+{"doc_id": "14", "entity": "Japan", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1512", "entity": "institute", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1543", "entity": "Indonesia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1174", "entity": "New York", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "694", "entity": "Portugal", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1132", "entity": "Sidi Kreir", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "703", "entity": "Spain", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "909", "entity": "Social Democratic Union", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Italy", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2099", "entity": "Information Technology Association of America", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Bangui", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2779", "entity": "Darren Jackson", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "693", "entity": "Germany", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "0", "entity": "CHINA", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "Mauritania", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "215", "entity": "Macedonia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "Ghana", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "831", "entity": "Argentina", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2493", "entity": "Italy", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2402", "entity": "Italy", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "825", "entity": "Switzerland", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2374", "entity": "west Japan", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2577", "entity": "Pavel", "field": "persons", "human": 0, "judge_greedy": 1}
+{"doc_id": "197", "entity": "World Cup quarter-final", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "560", "entity": "Arizona", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2088", "entity": "governments", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "697", "entity": "Real Madrid", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2372", "entity": "NTT", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2324", "entity": "Indonesia", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "3101", "entity": "Bolton", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2099", "entity": "U.S. network companies", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "332", "entity": "Indonesia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "693", "entity": "Portugal", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3411", "entity": "Doetinchem", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "405", "entity": "Ny Islanders", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "diplomats", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "849", "entity": "none", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "2374", "entity": "local firms", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2211", "entity": "government", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "343", "entity": "Camilla Martin", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "810", "entity": "Austria", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1106", "entity": "West Coast", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1418", "entity": "Brazil", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1245", "entity": "Yakoma", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "241", "entity": "Australia", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2856", "entity": "Australia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "849", "entity": "Inter", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2412", "entity": "Germany", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1986", "entity": "Kurds", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1418", "entity": "all over the world", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "214", "entity": "Macedonia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1430", "entity": "Bahia Blanca", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "5", "entity": "China", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2766", "entity": "World Cup", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2001", "entity": "government", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2856", "entity": "England", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Bangladesh", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "2124", "entity": "Oscar Luigi Scalfaro", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2088", "entity": "companies", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "560", "entity": "Ohio", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2437", "entity": "PGA", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2211", "entity": "Australian", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1154", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1358", "entity": "country", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2162", "entity": "Brazil", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1173", "entity": "Newmont", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "928", "entity": "POLAND", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2534", "entity": "Germany", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3101", "entity": "West Bromwich", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "461", "entity": "MINNESOTA", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2599", "entity": "Altenberg", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "170", "entity": "Greece", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3188", "entity": "South Korea", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1254", "entity": "Bangui", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1515", "entity": "country", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "215", "entity": "National Bucharest", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2088", "entity": "countries", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1358", "entity": "ruling party", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2372", "entity": "government", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2214", "entity": "countries", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1442", "entity": "all major ports", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "873", "entity": "MAHINDRA INTERNATIONAL", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "330", "entity": "Hermawan", "field": "persons", "human": 0, "judge_greedy": 1}
+{"doc_id": "1543", "entity": "Vietnam", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3131", "entity": "Europe", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2150", "entity": "Turkey", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "825", "entity": "Inter", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1029", "entity": "Genoa", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "3168", "entity": "Blendi Nallbani", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "1705", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "967", "entity": "Poland", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "334", "entity": "Taiwan", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "237", "entity": "Australia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1173", "entity": "Santa Fe", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1928", "entity": "Germany", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "343", "entity": "Denmark", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1581", "entity": "Tokyo", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "781", "entity": "Tenerife", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2324", "entity": "Busang 's central region", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2437", "entity": "LPGA Tours", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "559", "entity": "Ohio", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "821", "entity": "Italy", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1833", "entity": "Canada", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "697", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "405", "entity": "Ny Islanders", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2554", "entity": "Italy", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Burkina Faso", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2779", "entity": "Brian Laudrup", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "1344", "entity": "Russian foreign ministry", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2070", "entity": "New Mexico Activities Association", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2150", "entity": "police", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "405", "entity": "La Clippers", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2272", "entity": "Indonesia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1254", "entity": "Franco-African", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "10", "entity": "Hiroshima", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1069", "entity": "europe", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2226", "entity": "Sydney", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2070", "entity": "New Mexico", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "235", "entity": "West Indies", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "heads of state", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "3101", "entity": "West Bromwich", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2088", "entity": "regions", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "197", "entity": "Cape Town", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1493", "entity": "Xinhua", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "761", "entity": "sports", "field": "misc", "human": 0, "judge_greedy": 1}
+{"doc_id": "1765", "entity": "Ohio", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1986", "entity": "Kurdish People's Liberation Army", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "2329", "entity": "Barrick", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3444", "entity": "Ireland", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1323", "entity": "Uneximbank", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "214", "entity": "none", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "560", "entity": "Ohio State", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2379", "entity": "Malaysia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2001", "entity": "centre", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2584", "entity": "Germany", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3168", "entity": "Armir Grima", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "3185", "entity": "Victoria", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "330", "entity": "Soren", "field": "persons", "human": 0, "judge_greedy": 1}
+{"doc_id": "455", "entity": "TORONTO", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2329", "entity": "Mines and Energy", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "U. N.", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1010", "entity": "British Airways Plc", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "235", "entity": "Australia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2493", "entity": "Italy", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1154", "entity": "Newmont", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "197", "entity": "Australia", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1654", "entity": "State Street Bank and Trust Company", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2478", "entity": "Sweden", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2332", "entity": "Barrick", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1221", "entity": "Friday", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "325", "entity": "China", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "237", "entity": "West Indies", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3188", "entity": "Indonesia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1430", "entity": "Buenos Aires", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2150", "entity": "taxi driver", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1833", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "2437", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1535", "entity": "International Confederation of Free Trade Unions", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Salamanca", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1069", "entity": "north america", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "214", "entity": "Romania", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Sporting", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2329", "entity": "Barrick", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "343", "entity": "Wang Chen", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "2797", "entity": "Robbie Fowler", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "2705", "entity": "BADMINTON", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1765", "entity": "lower Ohio", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2214", "entity": "regions", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "325", "entity": "Chen Gang", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "831", "entity": "Roma", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "325", "entity": "Denmark", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2599", "entity": "La Plagne", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2479", "entity": "Germany", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1515", "entity": "region", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1811", "entity": "regions", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2533", "entity": "Austria", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1949", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1493", "entity": "China", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1132", "entity": "Augusta", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1921", "entity": "Sweden", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3308", "entity": "Boston", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Chad", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1986", "entity": "border", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "3308", "entity": "New Jersey", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1323", "entity": "Interrosimpex", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1254", "entity": "Bangui", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Porto", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2766", "entity": "Whistler Mountain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1392", "entity": "broad market", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "928", "entity": "SWITZERLAND", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "849", "entity": "Vicenza", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2577", "entity": "Muslimov", "field": "persons", "human": 0, "judge_greedy": 1}
+{"doc_id": "1230", "entity": "Senegal", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1353", "entity": "Russia", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1528", "entity": "Yangon", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "U. N. special envoy", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1358", "entity": "politics", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Juventus", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Barcelona", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "694", "entity": "Germany", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2124", "entity": "Italy", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2362", "entity": "Singapore", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2088", "entity": "institutions", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "2001", "entity": "main", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "909", "entity": "Democratic Convention", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1442", "entity": "Communities and transportation", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1362", "entity": "TASR", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "559", "entity": "Ohio State", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1264", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "215", "entity": "Otelul Galati", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1029", "entity": "Italy", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "197", "entity": "Barbarians", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2226", "entity": "Australia", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1769", "entity": "Mississippi", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1543", "entity": "Philippines", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2385", "entity": "Amsterdam", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2332", "entity": "Umar", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Barcelona", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1418", "entity": "medical students", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "14", "entity": "Syria", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "343", "entity": "China", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "O. I. C.", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2385", "entity": "Amsterdam", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "136", "entity": "Karachi", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1010", "entity": "American Airlines", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1535", "entity": "ICFTU", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1516", "entity": "country", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "560", "entity": "Arizona State", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2379", "entity": "Ahold NV", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "821", "entity": "Piacenza", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1833", "entity": "United Kingdom", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1157", "entity": "Newmont", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "330", "entity": "Indonesia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2332", "entity": "company", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "330", "entity": "Denmark", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1247", "entity": "Bangui", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "10", "entity": "Syria", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "405", "entity": "NBA", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "559", "entity": "Houston", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "693", "entity": "Ukraine", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2211", "entity": "Australia", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1173", "entity": "New Mexico", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "57", "entity": "Norway", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Gabon", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "810", "entity": "Manchester United", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "895", "entity": "United States", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2379", "entity": "BILO", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "761", "entity": "legislation", "field": "misc", "human": 0, "judge_greedy": 1}
+{"doc_id": "1157", "entity": "Santa Fe", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "U. N. general assembly president", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "325", "entity": "Martin Londgaard Hansen", "field": "persons", "human": 1, "judge_greedy": 1}
+{"doc_id": "1543", "entity": "Singapore", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2187", "entity": "London", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Porto", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "949", "entity": "Polish", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1953", "entity": "airport", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1115", "entity": "New York", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2722", "entity": "Norway", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1872", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Oviedo", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2042", "entity": "New York City", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1132", "entity": "Exxon", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2148", "entity": "Antwerp", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "559", "entity": "Rotary Club of Houston", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1221", "entity": "Mauritius", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "215", "entity": "Bucharest", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Chirac", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1661", "entity": "United States", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1442", "entity": "Communications and Transportation Ministry", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1255", "entity": "Gabon", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "332", "entity": "Denmark", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1154", "entity": "Santa Fe", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "697", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "949", "entity": "Zywiec", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1543", "entity": "Malaysia", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1841", "entity": "Niger", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "761", "entity": "none", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "3411", "entity": "The Super Peasants", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "2622", "entity": "Switzerland", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1515", "entity": "institute", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2332", "entity": "Bre-X", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "3444", "entity": "Englishman", "field": "organizations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1528", "entity": "restaurant owners", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2543", "entity": "Switzerland", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1247", "entity": "Loyalist soldiers", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "698", "entity": "Spain", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "821", "entity": "Bologna", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "1921", "entity": "Italy", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2628", "entity": "I", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2214", "entity": "cities", "field": "locations", "human": 0, "judge_greedy": 0}
+{"doc_id": "1255", "entity": "Chad", "field": "organizations", "human": 0, "judge_greedy": 1}
+{"doc_id": "2124", "entity": "Northern League", "field": "organizations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1543", "entity": "Brunei", "field": "locations", "human": 1, "judge_greedy": 1}
+{"doc_id": "1440", "entity": "Mexico", "field": "locations", "human": 0, "judge_greedy": 1}
+{"doc_id": "559", "entity": "Texas", "field": "locations", "human": 0, "judge_greedy": 0}

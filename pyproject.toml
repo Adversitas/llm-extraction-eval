@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "xtract"
+version = "0.1.0"
+description = "Structured information extraction with local open-weight LLMs: schema validation and repair, span verification against hallucinations, cost/latency accounting, and an LLM-as-judge checked against human annotations."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "pyarrow>=14",
+  "pydantic>=2.5",
+]
+
+[project.optional-dependencies]
+llm = ["torch>=2.2", "transformers>=4.45", "accelerate>=0.30"]
+dev = ["pytest>=8.0", "ruff>=0.5"]
+
+[project.scripts]
+xtract = "xtract.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/xtract"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

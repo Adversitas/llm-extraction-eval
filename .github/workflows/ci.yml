@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      # the LLM extra (torch, transformers) is not needed: tests use a fake backend
+      - run: pip install -e ".[dev]"
+      - run: ruff check .
+      - run: ruff format --check .
+      - run: pytest -q
+      - name: Download CoNLL-2003 and check the gold conversion
+        run: |
+          xtract download
+          python -c "from xtract import data; d=data.load_docs('test'); print(len(d)); assert len(d) > 3000"
+      - name: Rebuild the results table from the committed run outputs
+        run: xtract report --reports reports

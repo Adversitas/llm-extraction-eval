@@ -1,0 +1,40 @@
+{
+  "judge_model": "qwen2.5-3b-instruct",
+  "judged_results": "reports/qwen2.5-0.5b-instruct/results.jsonl",
+  "strategy": "zero-shot",
+  "greedy": {
+    "items": 300,
+    "accuracy_vs_human": 0.7533333333333333,
+    "cohen_kappa": 0.5066666666666666,
+    "judge_yes_rate": 0.6666666666666666,
+    "human_yes_rate": 0.5,
+    "true_positive_rate": 0.92,
+    "true_negative_rate": 0.5866666666666667
+  },
+  "sampled_t0.7_run1": {
+    "items": 300,
+    "accuracy_vs_human": 0.7466666666666667,
+    "cohen_kappa": 0.4933333333333334,
+    "judge_yes_rate": 0.6733333333333333,
+    "human_yes_rate": 0.5,
+    "true_positive_rate": 0.92,
+    "true_negative_rate": 0.5733333333333333
+  },
+  "sampled_t0.7_run2": {
+    "items": 300,
+    "accuracy_vs_human": 0.7633333333333333,
+    "cohen_kappa": 0.5266666666666666,
+    "judge_yes_rate": 0.6633333333333333,
+    "human_yes_rate": 0.5,
+    "true_positive_rate": 0.9266666666666666,
+    "true_negative_rate": 0.6
+  },
+  "sampled_run_to_run_agreement": 0.9766666666666667,
+  "greedy_vs_sampled_agreement": 0.9933333333333333,
+  "per_field_greedy_accuracy": {
+    "persons": 0.6923076923076923,
+    "organizations": 0.7096774193548387,
+    "locations": 0.7864583333333334,
+    "misc": 0.0
+  }
+}
